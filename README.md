@@ -4,6 +4,9 @@ A full-stack application that automates the process of analyzing job description
 
 ---
 
+<img width="1699" alt="Screenshot 2025-05-20 at 12 39 17" src="https://github.com/user-attachments/assets/c0a42aef-7dd3-4f54-9cd5-21273a54652b" />
+
+
 ## ✨ Features
 
 - Upload your resume (PDF)
